@@ -50,9 +50,10 @@
             "esri/widgets/Locate",
             "esri/intl",
             "esri/layers/FeatureLayer",
-            "esri/widgets/Legend"
+            "esri/widgets/Legend",
+            "esri/widgets/CoordinateConversion"
         ],
-            function (Map, GeoJSONLayer, MapView, Legend, Expand, BasemapGallery, Search, Popup, Locate, intl, FeatureLayer, Legend) {
+            function (Map, GeoJSONLayer, MapView, Legend, Expand, BasemapGallery, Search, Popup, Locate, intl, FeatureLayer, Legend, CoordinateConversion) {
                 const clusterConfig = {
                     type: "cluster",
                     clusterRadius: "100px",
@@ -253,6 +254,13 @@
                 view.ui.add(locateBtn, {
                     position: "top-left"
                 });
+
+                let ccWidget = new CoordinateConversion({
+                    view: view
+                });
+
+                // Adds widget in the bottom left corner of the view
+                view.ui.add(ccWidget, "bottom-left");
 
                 intl.setLocale("es");
             });

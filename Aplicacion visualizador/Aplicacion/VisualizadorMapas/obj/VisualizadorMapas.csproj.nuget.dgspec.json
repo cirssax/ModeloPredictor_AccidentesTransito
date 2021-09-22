@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DDS\\Proyecto semestral\\Mapas de calor\\VisualizadorMapas\\VisualizadorMapas\\VisualizadorMapas.csproj": {}
+    "D:\\DDS\\Proyectos - Git\\Modelo predictor de accidentes de transito\\Aplicacion visualizador\\Aplicacion\\VisualizadorMapas\\VisualizadorMapas.csproj": {}
   },
   "projects": {
-    "D:\\DDS\\Proyecto semestral\\Mapas de calor\\VisualizadorMapas\\VisualizadorMapas\\VisualizadorMapas.csproj": {
+    "D:\\DDS\\Proyectos - Git\\Modelo predictor de accidentes de transito\\Aplicacion visualizador\\Aplicacion\\VisualizadorMapas\\VisualizadorMapas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DDS\\Proyecto semestral\\Mapas de calor\\VisualizadorMapas\\VisualizadorMapas\\VisualizadorMapas.csproj",
+        "projectUniqueName": "D:\\DDS\\Proyectos - Git\\Modelo predictor de accidentes de transito\\Aplicacion visualizador\\Aplicacion\\VisualizadorMapas\\VisualizadorMapas.csproj",
         "projectName": "VisualizadorMapas",
-        "projectPath": "D:\\DDS\\Proyecto semestral\\Mapas de calor\\VisualizadorMapas\\VisualizadorMapas\\VisualizadorMapas.csproj",
+        "projectPath": "D:\\DDS\\Proyectos - Git\\Modelo predictor de accidentes de transito\\Aplicacion visualizador\\Aplicacion\\VisualizadorMapas\\VisualizadorMapas.csproj",
         "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
-        "outputPath": "D:\\DDS\\Proyecto semestral\\Mapas de calor\\VisualizadorMapas\\VisualizadorMapas\\obj\\",
+        "outputPath": "D:\\DDS\\Proyectos - Git\\Modelo predictor de accidentes de transito\\Aplicacion visualizador\\Aplicacion\\VisualizadorMapas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

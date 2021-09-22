@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nraboaM42yB1eWD4L79DRO1oH5BBCkO9ZDQ0wnkHkzuvTGnTWroYzNfqF/a8Bgfwp3u+XUkder7IJmrZJqx4Gw==",
+  "dgSpecHash": "QV09nd87FmcgYzbwyIGMnVKMHsA+YReKPFH3Valz3JbjaKyNdh7NBPfl+RxC4HWmfTwNgcncfiAo2weREtuu8Q==",
   "success": true,
-  "projectFilePath": "D:\\DDS\\Proyecto semestral\\Mapas de calor\\VisualizadorMapas\\VisualizadorMapas\\VisualizadorMapas.csproj",
+  "projectFilePath": "D:\\DDS\\Proyectos - Git\\Modelo predictor de accidentes de transito\\Aplicacion visualizador\\Aplicacion\\VisualizadorMapas\\VisualizadorMapas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\crist\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\crist\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.0\\microsoft.aspnetcore.jsonpatch.3.1.0.nupkg.sha512",
